@@ -7,7 +7,6 @@ DATABRICKS_SECURITY_GROUP = ''
 CUSTOM_SECURITY_GROUP = ''
 
 import boto.ec2
-from collections import defaultdict
 
 ##
 ## get list of the IPAddresses to add
